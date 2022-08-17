@@ -1,4 +1,4 @@
-# 1. Hafta Ödev - Oğuzcan Genç
+# ASP.Net WebAPI 6.0 External API Implementation Example 
 
 [![https://exchange-rates-data-api.herokuapp.com/swagger/index.html](https://github.com/215-Protein-NET-Bootcamp/1-hafta-odev-ouzdev/blob/main/live-demo-button.png)](https://exchange-rates-data-api.herokuapp.com/swagger/index.html)
 ## Technologies Used
